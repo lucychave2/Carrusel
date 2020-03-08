@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+#carrusel {
+	height: 800px;
+	width: 1200px;
+	left: 0%;
+	padding-left: 0%;
+	padding-top: 0%;
+	padding-right: 0%;
+	padding-bottom: 0%;
+	margin-bottom: 39vmax;
+	top: 0%;
+	right: 0%;
+	bottom: 0%;
+	margin-left: 0vmax;
+	margin-right: 0vmax;
+	margin-top: 0vmax;
+}
+#carrusel #carousel1 {
+	left: 6%;
+	margin-top: 118px;
+}
+#menufijo {
+	background-color: #A0FF8D;
+	height: 104px;
+	width: 398px;
+	position: fixed;
+	margin-bottom: 10px;
+	left: 494px;
+	padding-bottom: 10px;
+	bottom: 118px;
+	top: 0px;
+	z-index: 100;
+}
+#texto {
+	height: 800px;
+	width: 1200px;
+	top: 79px;
+	bottom: 74px;
+	margin-top: -383px;
+	left: 0px;
+	padding-left: 0px;
+	margin-left: 71px;
+	color: #0D8913;
+}
